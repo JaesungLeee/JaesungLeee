@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <div align=center>
+  <div align=start>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaesungLeee)](https://hits.seeyoufarm.com)
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jaesungleee.github.io/)](https://jaesungleee.github.io/)
