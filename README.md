@@ -26,7 +26,7 @@
 <br>
 <img src="https://img.shields.io/badge/Android-green?logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-blue?logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/ReactNative-#61DAFB?logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?logo=React&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Cisco-blue?logo=Cisco&logoColor=white">
   
