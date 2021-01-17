@@ -31,6 +31,7 @@
 <br>
 <img src="https://img.shields.io/badge/Cisco-blue?logo=Cisco&logoColor=white">
 <img src="https://img.shields.io/badge/NS--3-green?&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white">
   
 
 
