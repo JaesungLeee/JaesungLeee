@@ -12,6 +12,13 @@
   
   </div>
   
+  **My Tech Stacks**<br><br>
+<img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp;
+<img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp;
+<img src="https://img.shields.io/badge/-c/c++-yellow"/>&nbsp;
+<br>
+<img src="https://img.shields.io/badge/-Django-green"/>&nbsp;
+  
 
 
 <!--
