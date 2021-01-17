@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/JavaScript-orange?logo=JavaScript&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Django-purple?logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-blue?logo=Firebase&logoColor=white">
+
 <br>
 <img src="https://img.shields.io/badge/Android-green?logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-blue?logo=Flutter&logoColor=white">
