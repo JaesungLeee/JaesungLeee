@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp;
 <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp;
 <img src="https://img.shields.io/badge/-c/c++-yellow"/>&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/-Django-green"/>&nbsp;
   
