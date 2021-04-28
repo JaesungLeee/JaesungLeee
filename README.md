@@ -1,5 +1,4 @@
-### Welcome 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee)](https://github.com/anuraghazra/github-readme-stats)  
+<h3 align="center"> Welcome 👋 </h3> 
 
   <div align=center>
 <!--   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -32,8 +31,12 @@
 	<img src="https://img.shields.io/badge/NS--3-green?&logoColor=white">
 	<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white">
 </p>
+
+<details>
+	<summary><b>⚡Github Stats⚡</b> <i>(click to expand!)</i></summary>
 	
-  
+![JaesungLeee's github stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee&hide=contribs,prs)
+</details>
 
 
 <!--
@@ -48,5 +51,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
