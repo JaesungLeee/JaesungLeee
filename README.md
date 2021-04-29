@@ -37,6 +37,12 @@
 	
 ![JaesungLeee's github stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee&hide=contribs,prs)
 </details>
+<br>
+<details>
+	<summary><b>⚡Top Used Languages⚡</b> <i>(click to expand!)</i></summary>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaesungLeee)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 
 <!--
