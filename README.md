@@ -35,7 +35,7 @@
 <details>
 	<summary><b>⚡Github Stats⚡</b> <i>(click to expand!)</i></summary>
 	
-![JaesungLeee's github stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee&hide=contribs,prs)
+![Jaesung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee&show_icons=true&theme=radical)
 </details>
 <br>
 <details>
