@@ -14,8 +14,10 @@
 <h3 align="center">🛠 <strong>Language and Tools </strong>🛠</h3>
 <br>
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&logoColor=white">
+	<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
+	<img src="https://img.shields.io/badge/C++-yellow?logo=c&logoColor=white">
+	<br>
 	<img src="https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS-yellow?logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaScript-orange?logo=JavaScript&logoColor=white">
@@ -25,10 +27,9 @@
 	<br>
 	<img src="https://img.shields.io/badge/Android-green?logo=Android&logoColor=white">
 	<img src="https://img.shields.io/badge/Flutter-blue?logo=Flutter&logoColor=white">
-	<img src="https://img.shields.io/badge/ReactNative-61DAFB?logo=React&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Cisco-blue?logo=Cisco&logoColor=white">
-	<img src="https://img.shields.io/badge/NS--3-green?&logoColor=white">
+	<img src="https://img.shields.io/badge/NS--3-green?logo=ns-3&logoColor=white">
 	<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white">
 </p>
 
