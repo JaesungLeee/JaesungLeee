@@ -18,10 +18,6 @@
 	<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/C++-yellow?logo=c&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white">
-	<img src="https://img.shields.io/badge/CSS-yellow?logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/JavaScript-orange?logo=JavaScript&logoColor=white">
-	<br>
 	<img src="https://img.shields.io/badge/Django-purple?logo=Django&logoColor=white">
 	<img src="https://img.shields.io/badge/Firebase-blue?logo=Firebase&logoColor=white">
 	<br>
