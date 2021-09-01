@@ -1,15 +1,23 @@
-<h3 align="center"> Welcome 👋 </h3> 
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f4c81&height=60&text=  LeeJaeSung&animation=fadeIn&fontSize=50&fontColor=ffffff&textBg=true" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=40&text=Android%20Developer&fontSize=30&animation=scaleIn&fontColor=0f4c81" />
+  <br>
+  <br>
+ 
+ 
+ <a href="https://dev-wotjd.notion.site/Android-d556488b12ef4f108e54c1d67bc6f07e" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-814a66210/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-814a66210/"/>
+  </a>
+  <a href="mailto:biki0114@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
-  <div align=center>
-<!--   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee)](https://github.com/anuraghazra/github-readme-stats) -->
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaesungLeee)](https://hits.seeyoufarm.com)
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jslee-tech.tistory.com/)](https://jslee-tech.tistory.com/)
-  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-814a66210/)](https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-814a66210/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biki0114@gmail.com)](mailto:biki0114@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jdoongxx/)](https://www.instagram.com/jdoongxx/) 
+<br>
 	
-  </div>
   
 <h3 align="center">🛠 <strong>Language and Tools </strong>🛠</h3>
 <br>
@@ -28,6 +36,8 @@
 	<img src="https://img.shields.io/badge/NS--3-green?logo=ns-3&logoColor=white">
 	<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white">
 </p>
+
+<br>
 
 <details>
 	<summary><b>⚡Github Stats⚡</b> <i>(click to expand!)</i></summary>
