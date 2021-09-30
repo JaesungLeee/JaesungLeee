@@ -19,7 +19,6 @@
 </p>
 
 ---
-<br>
 
 <h3>🛠 <strong>Language and Tools </strong>🛠</h3>
 <br>
@@ -47,11 +46,9 @@
   <img src="https://img.shields.io/badge/cisco-1BA0D7.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/wireshark-1679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white"/>
 <p>
-<br>
 
 ---
 
-<br>
 
 <details>
 	<summary><b>⚡Github Stats⚡</b> <i>(click to expand!)</i></summary>
@@ -64,24 +61,9 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaesungLeee)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-
-<!--
-**JaesungLeee/JaesungLeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
-</p>
-
-**Solved.ac**
-
+<br>
+<details>
+	<summary><b>⚡solved.ac⚡</b> <i>(click to expand!)</i></summary>
+	
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=viki0114">
+</details>
