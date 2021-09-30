@@ -1,6 +1,6 @@
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0f4c81&height=60&text=   Lee Jae Sung&animation=fadeIn&fontSize=50&fontColor=ffffff&textBg=true" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=40&text=Android%20Engineer&fontSize=30&animation=scaleIn&fontColor=0f4c81" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=40&text=Android%20Developer&fontSize=30&animation=scaleIn&fontColor=0f4c81" />
 
 <br>
 
