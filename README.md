@@ -43,7 +43,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/ns3-7F52FF?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/cisco-1BA0D7.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cisco-1BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/wireshark-1679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white"/>
 <p>
 
