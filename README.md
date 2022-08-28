@@ -37,6 +37,11 @@
 
 ### 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
+- [sealed class](https://jslee-tech.tistory.com/50)
+- [open class와 abstract class](https://jslee-tech.tistory.com/49)
+- [[Paging3] Paging 시작하기](https://jslee-tech.tistory.com/47)
+- [[Retrofit2,Gson] java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $](https://jslee-tech.tistory.com/46)
+- [[ViewModel] ViewModel 시작하기](https://jslee-tech.tistory.com/45)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
