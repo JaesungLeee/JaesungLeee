@@ -13,9 +13,9 @@
   </a>
 </p>
 
+---
 
 <h3>🛠 <strong>Platform and Languages </strong>🛠</h3>
-<br>
 
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -33,8 +33,6 @@
 </p>
 
 
-<br>
-
 ### 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
 - [sealed class](https://jslee-tech.tistory.com/50)
@@ -44,6 +42,6 @@
 - [[ViewModel] ViewModel 시작하기](https://jslee-tech.tistory.com/45)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+---
 
 ![Jaesung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee&show_icons=true&theme=radical)
