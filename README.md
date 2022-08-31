@@ -35,11 +35,11 @@
 
 ### 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
-- [sealed class](https://jslee-tech.tistory.com/50)
-- [open class와 abstract class](https://jslee-tech.tistory.com/49)
-- [[Paging3] Paging 시작하기](https://jslee-tech.tistory.com/47)
-- [[Retrofit2,Gson] java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $](https://jslee-tech.tistory.com/46)
-- [[ViewModel] ViewModel 시작하기](https://jslee-tech.tistory.com/45)
+- [&lpar;번역&rpar; A safer way to collect flows from Android UIs](https://jslee-tech.tistory.com/52)
+- [&lpar;번역&rpar; Migrating from LiveData to Kotlin&#39;s Flow](https://jslee-tech.tistory.com/51)
+- [&lpar;Kotlin&rpar; sealed class](https://jslee-tech.tistory.com/50)
+- [&lpar;Kotlin&rpar; open class, abstract class](https://jslee-tech.tistory.com/49)
+- [java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $](https://jslee-tech.tistory.com/46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
