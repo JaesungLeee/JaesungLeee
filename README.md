@@ -14,11 +14,11 @@
 
 ### 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Kotlin&rpar; runCatching, Result](https://jslee-tech.tistory.com/58)
 - [&lpar;Coroutine&rpar; 4. CoroutineContext, Dispatcher](https://jslee-tech.tistory.com/57)
 - [&lpar;Coroutine&rpar; 3. async](https://jslee-tech.tistory.com/56)
 - [&lpar;Coroutine&rpar; 2. Light weight Thread, Job](https://jslee-tech.tistory.com/54)
 - [&lpar;Coroutine&rpar; 1. Coroutine Basic](https://jslee-tech.tistory.com/53)
-- [&lpar;번역&rpar; A safer way to collect flows from Android UIs](https://jslee-tech.tistory.com/52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
