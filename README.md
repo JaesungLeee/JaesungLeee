@@ -1,26 +1,35 @@
-## *Android Developer, 도전을 즐기는 개발자*
+### 안녕하세요. 내일 더 잘하는 개발자가 되고싶은 [이재성][notion]입니다. 👋
 
- <a href="https://dev-wotjd.notion.site/Android-d556488b12ef4f108e54c1d67bc6f07e" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-814a66210/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-814a66210/"/>
-  </a>
-  <a href="mailto:biki0114@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+<!-- ### Who am I
+- 🔭 I’m currently working on a [personal project][website]!
+- 🌱 I’m currently learning Data Science and Analytics 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Give impact to society
+- ⚡ Fun fact: I love blogging, reading books, and drawing -->
 
+<!-- <br /> -->
 
-### 📚 **Latest Blog Post**
-<!-- BLOG-POST-LIST:START -->
-- [&lpar;Coroutine&rpar; 7. Flow Basics](https://jslee-tech.tistory.com/61)
-- [&lpar;Coroutine&rpar; 6. CoroutineExceptionHandler, SupervisorJob](https://jslee-tech.tistory.com/60)
-- [&lpar;Coroutine&rpar; 5. Scope](https://jslee-tech.tistory.com/59)
-- [&lpar;Kotlin&rpar; runCatching, Result](https://jslee-tech.tistory.com/58)
-- [&lpar;Coroutine&rpar; 4. CoroutineContext, Dispatcher](https://jslee-tech.tistory.com/57)
-<!-- BLOG-POST-LIST:END -->
+### Connect with me:
+* **Gmail |** [biki0114@gmail.com](mailto:biki0114@gmail.com)
+* **Medium |** [jaesungleee.medium.com](https://jaesungleee.medium.com/)
+* **LinkedIn |** [Jaesung Lee](https://www.linkedin.com/in/jaesung-lee-814a66210/)
+* **SpeakerDeck |** [https://speakerdeck.com/jaesungleee](https://speakerdeck.com/jaesungleee)
+  
+<br />
 
 ---
 
-![Jaesung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaesungLeee&show_icons=true&theme=radical)
+### 📚 Latest Medium Story
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
+
+---
+
+### 📚 Previous Tistory Blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
+
+<img align="left" alt="JaesungLee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaesungLeee&count_private=true&show_icons=true&theme=dark" />
+
+[notion]: https://dev-wotjd.notion.site/Android-d556488b12ef4f108e54c1d67bc6f07e
