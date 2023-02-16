@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest medium story workflow
 on:
   schedule:
     - cron: '0 * * * *'

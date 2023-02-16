@@ -15,13 +15,12 @@
 * **LinkedIn |** [Jaesung Lee](https://www.linkedin.com/in/jaesung-lee-814a66210/)
 * **SpeakerDeck |** [https://speakerdeck.com/jaesungleee](https://speakerdeck.com/jaesungleee)
   
-<br />
 
 ---
 
 ### 📚 Latest Medium Story
-<!-- MEDIUM-POST-LIST:START -->
-<!-- MEDIUM-POST-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 ---
 
