@@ -24,11 +24,6 @@
 
 ---
 
-### 📚 Previous Tistory Blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
-
 <img align="left" alt="JaesungLee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaesungLeee&count_private=true&show_icons=true&theme=dark" />
 
 [notion]: https://dev-wotjd.notion.site/Android-d556488b12ef4f108e54c1d67bc6f07e
