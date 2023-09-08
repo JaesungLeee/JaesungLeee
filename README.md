@@ -1,4 +1,4 @@
-### 안녕하세요. 내일 더 잘하는 개발자가 되고싶은 [이재성][notion]입니다. 👋
+### 안녕하세요. 꾸준히 성장하는 개발자 [이재성][notion]입니다. 👋
 
 <!-- ### Who am I
 - 🔭 I’m currently working on a [personal project][website]!
@@ -31,4 +31,4 @@
 
 <img align="left" alt="JaesungLee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaesungLeee&count_private=true&show_icons=true&theme=dark" />
 
-[notion]: https://dev-wotjd.notion.site/Android-d556488b12ef4f108e54c1d67bc6f07e
+[notion]: https://jaesungleee.notion.site/3668117ce02342d28351cf5703342f8f?pvs=4
