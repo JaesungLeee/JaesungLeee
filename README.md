@@ -27,9 +27,9 @@
 - [&lpar;Android&rpar; Retrofit2는 어떻게 동작하는가 — 1. 내부 코드 분석](https://medium.com/jaesung-dev/android-retrofit2%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-1-%EB%82%B4%EB%B6%80-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-964f4b5d0a5d?source=rss-1de6c2ced51------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
----
+<!-- --- -->
 
-<img align="left" alt="JaesungLee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaesungLeee&count_private=true&show_icons=true&theme=dark" />
+<!-- <img align="left" alt="JaesungLee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaesungLeee&count_private=true&show_icons=true&theme=dark" /> -->
 
 [notion]: https://jaesungleee.notion.site/3668117ce02342d28351cf5703342f8f?pvs=4
 [resume]: https://drive.google.com/file/d/1IJ56rA-L_oo19kI-RM-FRUAcgRVBYuyV/view?usp=sharing
