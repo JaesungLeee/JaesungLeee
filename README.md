@@ -20,11 +20,11 @@
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [&lpar;회고&rpar; 2024년을 맞이하며](https://medium.com/jaesung-dev/%ED%9A%8C%EA%B3%A0-2024%EB%85%84%EC%9D%84-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%A9%B0-afd04561bc25?source=rss-1de6c2ced51------2)
 - [&lpar;Android&rpar; Retrofit2는 어떻게 동작하는가 — 0. 목차](https://medium.com/jaesung-dev/android-retrofit2%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-0-%EB%AA%A9%EC%B0%A8-b23e22c916d3?source=rss-1de6c2ced51------2)
 - [&lpar;Android&rpar; Retrofit2는 어떻게 동작하는가 — 3. OkHttp3의스레드 관리](https://medium.com/jaesung-dev/android-retrofit2%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-3-okhttp3%EC%9D%98%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B4%80%EB%A6%AC-b90a36808d37?source=rss-1de6c2ced51------2)
 - [&lpar;Android&rpar; Retrofit2는 어떻게 동작하는가 — 2. IO Dispatcher는 필요한가](https://medium.com/jaesung-dev/android-retrofit2%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-2-io-dispatcher%EB%8A%94-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-83d5cc1b564b?source=rss-1de6c2ced51------2)
 - [&lpar;Android&rpar; Retrofit2는 어떻게 동작하는가 — 1. 내부 코드 분석](https://medium.com/jaesung-dev/android-retrofit2%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-1-%EB%82%B4%EB%B6%80-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-964f4b5d0a5d?source=rss-1de6c2ced51------2)
+- [&lpar;Android&rpar; 직렬화와 역직렬화](https://medium.com/jaesung-dev/android-%EC%A7%81%EB%A0%AC%ED%99%94%EC%99%80-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94-18fd04f1c0ed?source=rss-1de6c2ced51------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- --- -->
