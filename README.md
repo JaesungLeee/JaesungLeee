@@ -13,7 +13,7 @@
 ### Contact ✉️
 * **Gmail |** [biki0114@gmail.com](mailto:biki0114@gmail.com)
 * **Medium |** [jaesungleee.medium.com](https://jaesungleee.medium.com/)
-* **LinkedIn |** [Jaesung Lee](https://www.linkedin.com/in/jaesung-lee-814a66210/)
+* **LinkedIn |** [Jaesung Lee](https://www.linkedin.com/in/jaesungleee/)
 * **SpeakerDeck |** [https://speakerdeck.com/jaesungleee](https://speakerdeck.com/jaesungleee)
 
 <!-- <img align="left" alt="JaesungLee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaesungLeee&count_private=true&show_icons=true&theme=dark" /> -->
